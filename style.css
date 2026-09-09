@@ -1,5 +1,6 @@
 body {
     background-color: lightyellow;
+    font-family: Garamond, serif;
 }
 
 header {
@@ -50,7 +51,8 @@ main {
 }
 footer
 { display: flex;
-    justify-content: flex-end;}
+    justify-content: flex-end;
+    font-family: "Times New Roman", sans-serif;}
 .head-pictures {
     display: flex;
     gap: 25px;
