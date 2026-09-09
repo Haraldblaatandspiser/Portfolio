@@ -29,18 +29,18 @@ header nav {
     margin-bottom: 80px;
 }
 
-.hoved {
+.top-head {
     display: flex;
 
     align-items: center;
     gap: 60px;
 }
 
-.hoved-text {
+.top-head-text {
     max-width: 600px;
 }
 
-.hoved-text h1 {
+.top-head-text h1 {
     font-size: 42px;
 }
 
@@ -51,7 +51,7 @@ main {
 footer
 { display: flex;
     justify-content: flex-end;}
-.hoved-billeder {
+.head-pictures {
     display: flex;
     gap: 25px;
 
