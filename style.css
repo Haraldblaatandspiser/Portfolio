@@ -1,0 +1,58 @@
+body {
+    background-color: lightyellow;
+}
+
+header {
+    padding: 30px 60px;
+}
+
+header img {
+    width: 220px;
+    height: 300px;
+    border: 1px solid darkgreen;
+    border-radius: 26px;
+    object-fit: cover;
+}
+
+nav {
+    display: flex;
+    gap: 20px;
+    justify-content: flex-end;
+}
+
+nav a {
+    color: darkgreen;
+    text-decoration: none;
+}
+
+header nav {
+    margin-bottom: 80px;
+}
+
+.hoved {
+    display: flex;
+
+    align-items: center;
+    gap: 60px;
+}
+
+.hoved-text {
+    max-width: 600px;
+}
+
+.hoved-text h1 {
+    font-size: 42px;
+}
+
+main {
+    max-width: 900px;
+    margin: 40px auto;
+}
+footer
+{ display: flex;
+    justify-content: flex-end;}
+.hoved-billeder {
+    display: flex;
+    gap: 25px;
+
+}
