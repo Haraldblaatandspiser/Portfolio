@@ -15,12 +15,6 @@ header img {
     object-fit: cover;
 }
 
-nav {
-    display: flex;
-    gap: 20px;
-    justify-content: flex-end;
-}
-
 nav a {
     color: darkgreen;
     text-decoration: none;
@@ -28,6 +22,9 @@ nav a {
 
 header nav {
     margin-bottom: 80px;
+    display: flex;
+    gap: 20px;
+    justify-content: flex-end;
 }
 
 .top-head {
