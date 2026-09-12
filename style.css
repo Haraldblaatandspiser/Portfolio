@@ -46,17 +46,25 @@ main {
     max-width: 900px;
     margin: 40px auto;
 }
-.running-icon{font-size:20px;}
-.meditation-icon{font-size: 20px}
-.family-icon{font-size: 20px}
-.chef-icon{font-size:20px}
 
-footer
-{ display: flex;
+.running-icon {
+    font-size:20px;
+}
+.meditation-icon {
+    font-size: 20px
+}
+.family-icon {
+    font-size: 20px
+}
+.chef-icon {
+    font-size:20px
+}
+
+footer { display: flex;
     justify-content: flex-end;
-    font-family: "Times New Roman", sans-serif;}
+    font-family: "Times New Roman", sans-serif;
+}
 .head-pictures {
     display: flex;
     gap: 25px;
-
 }
